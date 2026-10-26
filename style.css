@@ -1,0 +1,57 @@
+body {
+    background-color: #1E5AA5;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+
+img {
+    border-radius: 15px;
+    width: 500px;
+    text-align: center;
+}
+
+tr {
+    border: 2px solid white;
+}
+
+td {
+    color: white;
+    border: 2px solid white;
+}
+
+th {
+    color: white;
+    border: 2px solid white;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.soz {
+    text-align: center;
+    width: 95%;
+    height: auto;
+    background-color: red;
+}
+
+.yil {
+    background-color: green;
+  
+}
+
+.th{
+    background-color: rgb(218, 193, 6);
+}
+
+.img{
+    text-align: center;
+}
